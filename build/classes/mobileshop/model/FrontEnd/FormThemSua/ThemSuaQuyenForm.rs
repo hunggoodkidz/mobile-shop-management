@@ -1,0 +1,6 @@
+mobileshop.model.FrontEnd.FormThemSua.ThemSuaQuyenForm
+giaodienchuan.model.FrontEnd.FormThemSua.PanelChooseQuyen
+giaodienchuan.model.FrontEnd.FormThemSua.ChiTietQuyenForm
+mobileshop.model.FrontEnd.FormThemSua.ChiTietQuyenForm
+giaodienchuan.model.FrontEnd.FormThemSua.ThemSuaQuyenForm
+mobileshop.model.FrontEnd.FormThemSua.PanelChooseQuyen
