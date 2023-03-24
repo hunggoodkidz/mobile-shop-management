@@ -1,7 +1,6 @@
-# Pixel Mobile
 
-<img src="/images/mobilepixel.png" align="center"
-width="64" height="64" hspace="10" vspace="10">
+
+# Pixel Mobile <img src="/images/mobilepixel.png" align="center" width="64" height="64" hspace="10" vspace="10">
 
 Pixel Mobile is a software application management designed to streamline the operations of a mobile shop
 This project aims to automate the processes involved in managing a store which is selling smartphone 
@@ -46,12 +45,15 @@ Some Features:
 
 
 ## Screenshots
+Login
 [<img src="/images/login.jpg" align="left"
 width="500"
     hspace="10" vspace="10">](/images/login.jpg)
+Home Screen
 [<img src="/images/homescreen.jpg" align="center"
 width="500"
     hspace="10" vspace="10">](/images/homescreen.jpg)
+Sell Product Screen
 [<img src="/images/sellproduct.jpg" align="center"
 width="500"
     hspace="10" vspace="10">](/images/sellproduct.jpg)
